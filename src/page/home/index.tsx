@@ -80,7 +80,7 @@ export function Home() {
       </button>
 
       <DndContext onDragEnd={handleDragEnd}>
-        <div className="flex items-center justify-between mt-10">
+        <div className="flex items-start justify-between mt-10">
           {Object.keys(spaces).map((zone) => (
             <div
               key={zone}
