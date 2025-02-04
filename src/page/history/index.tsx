@@ -1,5 +1,4 @@
 import eu2 from '/eu2.png'
-import Eric from '/Eric.pdf'
 import { Instagram, Github, Linkedin } from "lucide-react";
 
 
